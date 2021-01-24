@@ -1,0 +1,7 @@
+Gizem,300
+y,1000
+shdfghgdh,300
+betül,100
+betül,0
+betül,-700
+g,800

@@ -1,0 +1,14 @@
+C:\Users\giz\source\repos\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\giz\source\repos\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\giz\source\repos\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\giz\source\repos\HangMan\HangMan\obj\Debug\HangMan.csprojAssemblyReference.cache
+C:\Users\giz\source\repos\HangMan\HangMan\obj\Debug\HangMan.GamePage.resources
+C:\Users\giz\source\repos\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+C:\Users\giz\source\repos\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.cache
+C:\Users\giz\source\repos\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\giz\source\repos\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\giz\source\repos\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\Users\giz\source\repos\HangMan\HangMan\bin\Debug\MetroFramework.Design.dll
+C:\Users\giz\source\repos\HangMan\HangMan\bin\Debug\MetroFramework.dll
+C:\Users\giz\source\repos\HangMan\HangMan\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\giz\source\repos\HangMan\HangMan\obj\Debug\HangMan.csproj.CopyComplete
